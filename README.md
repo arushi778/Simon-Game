@@ -1,3 +1,3 @@
 # Simon-Game
-Minor Frontend project
+Minor Frontend project :
 A Memory Game
